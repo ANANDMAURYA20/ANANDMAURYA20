@@ -1,27 +1,18 @@
-👋 Hey there! I’m [Your Name]
-🚀 Aspiring Cloud Engineer | Full-Stack Developer
-
-I am passionate about leveraging technology to solve real-world problems. I love exploring AI-powered projects, cloud computing, and full-stack development. Currently, I’m working on AWS, Java, React, and MongoDB .
-
-🛠 Tech Stack & Skills
-Programming: Python, Java, JavaScript
-Frontend: React.js, HTML, CSS
-Backend: Node.js, Express.js, Java (Spring Boot)
-Databases: MongoDB
-📌 Current Projects & Learning
-📚 Library Management System – Full-stack project using Java, React, and MongoDB
-☁️ AWS Certification – Learning AWS services for cloud computing and deployment
-
-🌐 Socials:
-Instagram LinkedIn Medium email
-
-💻 Tech Stack:
-Java JavaScript GraphQL HTML5 CSS3 AWS Bootstrap Chart.js JWT Insomnia NPM React TailwindCSS Spring MongoDB Postman
-
-📊 GitHub Stats:
+# 💫 About Me:
+👋 Hey there! I'm [Your Name]<br>🚀 Aspiring  Cloud Engineer | Full-Stack Developer<br><br>I am passionate about leveraging technology to solve real-world problems. I love exploring AI-powered projects, cloud computing, and full-stack development. Currently, I’m working on AWS, Java, React, and MongoDB .<br><br>🛠 Tech Stack & Skills<br>Programming: Python, Java, JavaScript<br>Frontend: React.js, HTML, CSS<br>Backend: Node.js, Express.js, Java (Spring Boot)<br>Databases: MongoDB<br>📌 Current Projects & Learning<br>📚 Library Management System – Full-stack project using Java, React, and MongoDB<br>☁️ AWS Certification – Learning AWS services for cloud computing and deployment<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/a_n_a_n_d.k20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-kumar-7977a1278/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anbru968) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anbru968@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ANANDMAURYA20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANANDMAURYA20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANANDMAURYA20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ANANDMAURYA20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
